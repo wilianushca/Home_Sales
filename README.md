@@ -1,6 +1,6 @@
 # Home_Sales
 
-# Home Sales Analysis with Apache Spark
+# Home Sales Analysis with Apache Spark & Google Colab
 
 This project analyzes home sales data using Apache Spark and was created on Google Colab. The dataset contains information about home sales, including prices, number of bedrooms and bathrooms, square footage, and other attributes.
 
